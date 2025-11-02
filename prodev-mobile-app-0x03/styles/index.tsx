@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
     marginTop: 11,
   },
 
-  largText: {
+  largeText: {
     fontSize: 40,
     fontWeight: 700,
   },
